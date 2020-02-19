@@ -1,0 +1,28 @@
+
+body{
+    font-family: tahoma;
+    background-color: aqua;
+    margin: 1%
+}
+.QA{
+    border: 2px solid gray;
+    border-radius: 30px;
+    margin: 1%;
+    padding: 5px;
+    text-align: justify;
+    width: 30%;
+    display: inline-table;
+    color: purple
+}
+.heading{
+    text-align: center;
+    color: green;
+    font-weight: bold;
+}
+.ans{
+    font-weight: bold;
+    color: red;
+}
+h4{
+    color: lightseagreen;
+}
